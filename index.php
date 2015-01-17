@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<a href="job-listings/">See all books</a>
+<a href="<?php echo $config['target_dir']; ?>">See all generated files</a>
 
 </body>
 </html>
